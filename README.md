@@ -33,9 +33,10 @@ learning-ask-llm
 │   │   └───2-capabilities
 │   └───openai
 │       ├───1-interfaces
-│       │       1-todo-InvokeModel.txt
-│       │       2-todo-Converse.txt
-│       │       3-todo-openai-native.txt
+│       │       1-invokemodel.ipynb
+│       │       2-converse.ipynb
+│       │       3-openai-native-chat-completions.ipynb
+│       │       4-openai-native-responses.ipynb
 │       │
 │       └───2-capabilities
 ├───assets
