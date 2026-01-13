@@ -42,7 +42,7 @@ learning-ask-llm
 │       smIMGL3625_TP_V4.jpg
 │
 └───microsoft-foundry
-    ├───anthropic
+    ├───anthropic-claude
     │       README.md
     │
     ├───microsoft-phi
