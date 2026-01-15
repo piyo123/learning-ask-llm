@@ -27,8 +27,10 @@ learning-ask-llm
 │   │   └───2-capabilities
 │   ├───anthropic-claude
 │   │   ├───1-interfaces
-│   │   │       1-todo-InvokeModel.txt
-│   │   │       2-todo-Converse.txt
+│   │   │       1-invokemodel.ipynb
+│   │   │       2-invokemodel-with-streaming.ipynb
+│   │   │       3-converse.ipynb
+│   │   │       4-converse_streaming.ipynb
 │   │   │
 │   │   └───2-capabilities
 │   └───openai
@@ -39,6 +41,8 @@ learning-ask-llm
 │       │       4-openai-native-responses.ipynb
 │       │
 │       └───2-capabilities
+│               1-streaming-openai-native-responses.ipynb
+│
 ├───assets
 │       smIMGL3625_TP_V4.jpg
 │
