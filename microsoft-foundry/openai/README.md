@@ -3,10 +3,10 @@
 ## Azure OpenAI
 [Azure OpenAI Responses API](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/responses?view=foundry-classic&tabs=python-key)
 
-### 2026.01.11 memo
-AzureOpenAI ではなく、OpenAI のネイティブAPIを使うことが推奨されているようだ。
-
-[Microsoft Foundry Models API ライフサイクルにおける Azure OpenAI](https://learn.microsoft.com/ja-jp/azure/ai-foundry/openai/api-version-lifecycle?view=foundry&tabs=python)
+> [!NOTE]  
+> 2026.01.11 memo  
+> AzureOpenAI ではなく、OpenAI のネイティブAPIを使うことが推奨されているようだ。  
+> [Microsoft Foundry Models API ライフサイクルにおける Azure OpenAI](https://learn.microsoft.com/ja-jp/azure/ai-foundry/openai/api-version-lifecycle?view=foundry&tabs=python)
 
 ## OpenAI
 [Responses | OpenAI API Reference](https://platform.openai.com/docs/api-reference/responses)
