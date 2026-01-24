@@ -9,7 +9,7 @@
 - [OpenAI Chat Completions](https://docs.aws.amazon.com/ja_jp/bedrock/latest/userguide/inference-chat-completions.html)
 
 > [!NOTE]  
-> OpenAI モデル `gpt-oss-*` seriesでは、`converse_stream`、`invoke_model_with_response` を動作させることができなかった。  
+> OpenAI モデル `gpt-oss-*` seriesでは、`converse_stream`、`invoke_model_with_response_stream` を動作させることができなかった。  
 > Based on testing, `converse_stream` and `invoke_model_with_response_stream` do not seem to function with the OpenAI `gpt-oss-*` models.
 
 ### endpoint list
