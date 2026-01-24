@@ -21,10 +21,12 @@ learning-ask-llm
 │   │
 │   ├───amazon-nova
 │   │   ├───1-interfaces
-│   │   │       1-todo-converse.txt
-│   │   │       2-todo-converse-stream.txt
+│   │   │       1-converse.ipynb
+│   │   │       2-converse_streaming.ipynb
 │   │   │
 │   │   └───2-capabilities
+│   │           explain-image.ipynb
+│   │
 │   ├───anthropic-claude
 │   │   ├───1-interfaces
 │   │   │       1-invokemodel.ipynb
@@ -33,6 +35,8 @@ learning-ask-llm
 │   │   │       4-converse_streaming.ipynb
 │   │   │
 │   │   └───2-capabilities
+│   │           explain-image.ipynb
+│   │
 │   └───openai
 │       ├───1-interfaces
 │       │       1-invokemodel.ipynb
